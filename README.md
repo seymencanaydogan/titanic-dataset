@@ -86,17 +86,22 @@ Typical steps covered in this project:
 
 ## ▶️ How to Run
 
-1. Clone the repository:
+1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/seymencanaydogan/titanic-dataset.git
    ```
-2. Open the notebook:
+2. **Navigate into the project folder**:
 
    ```bash
-   jupyter notebook Titanic DataSeti.ipynb
+   cd titanic-dataset
    ```
-3. Run all cells to reproduce the analysis and results.
+3. **Open the notebook**:
+
+   ```bash
+   jupyter notebook "Titanic DataSeti.ipynb"
+   ```
+4. **Run all cells** to reproduce the analysis, visualizations, and machine learning results.
 
 ---
 
